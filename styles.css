@@ -1,0 +1,17 @@
+body{
+    background-image: url(buenas.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+;
+}
+
+td  {
+    text-align: center;
+    color: aqua;
+}
+
+th{
+    text-align: center;
+    color: aqua;
+}
